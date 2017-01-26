@@ -1,0 +1,32 @@
+{
+  "name": "bhatest-anmodule",
+  "version": "1.0.0",
+  "description": "Prueba de un angular module",
+  "main": "dist/bundles/bhatest-anmodule.umd.js",
+  "module": "dist/index.js",
+  "typings": "index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "angular",
+    "angular2",
+    "angular 2",
+    "banhaia",
+    "bhatest"
+  ],
+  "author": "Brian Chaia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianpr/bhatest-anmodule.git"
+  },
+  "homepage": "https://github.com/brianpr/bhatest-anmodule",
+  "bugs": {
+    "url": "https://github.com/brianpr/bhatest-anmodule.git/issues"
+  },
+  "peerDependencies": {
+    "@angular/core": "^2.4.0",
+    "reflect-metadata": "^0.1.8",
+    "rxjs": "^5.0.1",
+    "zone.js": "^0.7.2"
+  }
+}
